@@ -1,0 +1,20 @@
+object
+instance of class
+method
+function, part of class definition that implements some of the behaviour of objects of the class
+encapsulation
+defining attributes of an object as private and using get and set methods to access/update values of private attributes
+attribute
+usage of instance variable (variable that is specific to a certain object, declared within a class but outside of a method)
+accessor
+method designed to provide access to a private attribute of a class (getter)
+mutator
+method designed to allow modification of a private attribute of a class (setter)
+inheritance
+sharing attributes and methods between classes (subclass/child class inherits from superclass/parent class)
+polymorphism
+uses methods inherited from other classes to perform different tasks, essentially, a single action could be performed in different ways
+constructor
+method that is used to initialise objects, called when an object is created and sets initial values for object attributes
+abstraction
+process of only showing essential details to the user, achieved using abstract classes or interfaces
